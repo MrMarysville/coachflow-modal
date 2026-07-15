@@ -1,0 +1,1 @@
+Pipeline flow diagram + components + failure modes.
